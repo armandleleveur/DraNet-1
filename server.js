@@ -3,7 +3,7 @@ const client = new Discord.Client();
 
 const tokenfile = require("./token.json");
 
-const prefix = '/';
+const prefix = '!';
 const ownerID = '269787936936034304';
 const active = new Map();
 
