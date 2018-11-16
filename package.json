@@ -1,0 +1,19 @@
+{
+  "name": "bot-discord",
+  "version": "3.0.0",
+  "description": "Bot Pour Drakaria Network",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "MrEleveur",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.4.2",
+    "ffmpeg": "0.0.4",
+    "lzma-native": "^4.0.3",
+    "opusscript": "0.0.6",
+    "yt-search": "^0.3.0",
+    "ytdl-core": "^0.28.0"
+  }
+}
